@@ -1,0 +1,13 @@
+.cache
+.project
+project/project/
+project/target/
+target/
+.classpath
+.settings
+bin
+.worksheet/
+*.sc
+.idea
+
+
